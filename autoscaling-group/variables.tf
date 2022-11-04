@@ -7,7 +7,7 @@ variable "min-size" {
 variable "desired-size" {
     type = string
     description = "Minimum number of instances"
-    default = 2
+    default = 3
 }
 
 variable "max-size" {
